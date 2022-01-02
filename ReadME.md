@@ -5,11 +5,11 @@ I. Examples of ML algorithm.
 ## Results 
 #### Data Preprocessing
 
-     II. what variable(s) that are considered the target(s) for your model?
+    What variable(s) that are considered the target(s) for your model?
 
      a. IS_SUCCESSFUL column.
 
-    what variable(s) that are considered to be the features for your model?
+    What variable(s) that are considered to be the features for your model?
 
      b. Every column except the drop.
 
