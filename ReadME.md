@@ -5,7 +5,7 @@ I. Examples to perform ML algorithm.
 ## Results 
 #### Data Preprocessing
 
-II. what variable(s) that are considered the target(s) for your model?
+     II. what variable(s) that are considered the target(s) for your model?
 
      a. IS_SUCCESSFUL column.
 
@@ -24,7 +24,7 @@ DataFrame <br>
 
 #### Compiling, Training, and Evaluating the Model
 
-I dont know the answer to these questions. i do not have clear grasp of deep network and neural network. therefore unable to perform the challenge. 
+I dont know the answer to these questions. I do not have a clear grasp of deep and neural network. Therefore I am unable to perform the challenge. 
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
