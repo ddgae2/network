@@ -14,6 +14,7 @@
   b. every column except the drop.
 
 3. What variable(s) are neither targets nor features, and should be removed from the input data?
+  
   c. First features we drop are the 'EIN' & 'NAME'???
 
 ##### Deliverable 1 
@@ -23,7 +24,7 @@ DataFrame <br>
 
 Compiling, Training, and Evaluating the Model
 
-I dont know the answer these questions. 
+I dont know the answer to these questions. 
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
