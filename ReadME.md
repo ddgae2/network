@@ -24,7 +24,7 @@ DataFrame <br>
 
 #### Compiling, Training, and Evaluating the Model
 
-I do not have a clear grasp of a deep and neural network. Therefore I am unable to perform the challenge. 
+I do not have a clear grasp of a deep and an neural network. Therefore I am unable to perform the challenge. 
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
