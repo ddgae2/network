@@ -11,7 +11,7 @@ I. Examples to perform ML algorithm.
 
     what variable(s) that are considered to be the features for your model?
 
-     b. every column except the drop.
+     b. Every column except the drop.
 
     What variable(s) are neither targets nor features, and should be removed from the input data?
   
@@ -24,7 +24,7 @@ DataFrame <br>
 
 #### Compiling, Training, and Evaluating the Model
 
-I dont know the answer to these questions. I do not have a clear grasp of deep and neural network. Therefore I am unable to perform the challenge. 
+I dont know the answer to these questions. I do not have a clear grasp of a deep and neural network. Therefore I am unable to perform the challenge. 
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
