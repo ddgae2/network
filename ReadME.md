@@ -15,7 +15,7 @@ I. Examples of ML algorithm.
 
     What variable(s) are neither targets nor features, and should be removed from the input data?
   
-     c. First features we drop are the 'EIN' & 'NAME'???
+     c. 'EIN' & 'NAME'???
 
 ##### Deliverable 1 
 DataFrame <br>
