@@ -1,5 +1,5 @@
 ## Overview of the analysis
-I. Examples to perform ML algorithm.
+I. Examples of ML algorithm.
 
 
 ## Results 
