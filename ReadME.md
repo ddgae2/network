@@ -1,20 +1,20 @@
 ## Overview of the analysis
-- network model using ML examples to perform ML algorithm.. compare columns of data and process the work?
+- Network model using ML examples to perform ML algorithm.
 
 
 ## Results 
 #### Data Preprocessing
 
-what variable(s) that are considered the target(s) for your model?
+1. what variable(s) that are considered the target(s) for your model?
 
-IS_SUCCESSFUL column.
+  a. IS_SUCCESSFUL column.
 
-what variable(s) that are considered to be the features for your model
+2. what variable(s) that are considered to be the features for your model
 
-every column except the drop.
+  b. every column except the drop.
 
-What variable(s) are neither targets nor features, and should be removed from the input data?
-First features we drop are the 'EIN' & 'NAME'???
+3. What variable(s) are neither targets nor features, and should be removed from the input data?
+  c. First features we drop are the 'EIN' & 'NAME'???
 
 ##### Deliverable 1 
 DataFrame <br>
