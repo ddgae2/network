@@ -9,7 +9,7 @@ I. Examples to perform ML algorithm.
 
      a. IS_SUCCESSFUL column.
 
-    what variable(s) that are considered to be the features for your model
+    what variable(s) that are considered to be the features for your model?
 
      b. every column except the drop.
 
