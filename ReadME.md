@@ -48,6 +48,19 @@ The results are saved to an HDF5 file (2.5 pt) <br>
 
    ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure5.png) <br>
 
+#### Deliverable 3 Requirements
+
+Noisy variables are removed from features (2.5 pt)
+Additional neurons are added to hidden layers (2.5 pt)
+Additional hidden layers are added (5 pt)
+The activation function of hidden layers or output layers is changed for optimization (5 pt)
+The model's weights are saved every 5 epochs (2.5 pt)
+The results are saved to an HDF5 file (2.5 pt)
+
+   ![Figure 6](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
+
+
+
 #### Summary: 
 the model did well at 73% percentage. 
 
