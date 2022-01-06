@@ -35,14 +35,14 @@ I. Here, preprocessing methodology to performing neural network via sklearn, ten
 #### Compiling, Training, and Evaluating the Model
 
 The neural network model using Tensorflow Keras contains working code that performs the following steps:
-The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt)
+The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt) <br>
 
-An output layer with an activation function is created (2.5 pt)
+An output layer with an activation function is created (2.5 pt) <br>
 
-There is an output for the structure of the model (5 pt)
-There is an output of the model’s loss and accuracy (5 pt)
-The model's weights are saved every 5 epochs (2.5 pt)
-The results are saved to an HDF5 file (2.5 pt)
+There is an output for the structure of the model (5 pt) <br>
+There is an output of the model’s loss and accuracy (5 pt) <br>
+The model's weights are saved every 5 epochs (2.5 pt) <br>
+The results are saved to an HDF5 file (2.5 pt) <br>
 
    ![Figure 4](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
 
