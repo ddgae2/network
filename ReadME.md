@@ -1,6 +1,6 @@
 ## Module 19 Challenge Alphabet Soup. 
 
-I. Here, preprocessing methodology to performing neural network via sklearn, tensorflow, and pandas.
+I. Preprocessing methodology to performing neural network via sklearn, tensorflow, and pandas.
 
 
 ### Results 
@@ -67,5 +67,5 @@ What steps did you take to try and increase model performance? <br>
 100 Epoch steps. 50 Epoch and lastly 30 Epoch and period of 5. <br>
 
 #### Summary: 
-the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. deep model is a benefical model to use if more than one possible solution can be observed. Neural network is an another trained model to visual other networks of nodes to get to predicted model.  
+the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. Deep model may be a good model to use if more than one possible nodes of solution can be observed. Neural network is an another trained model to visual other networks of nodes to get to a predicted model or process. 
 
