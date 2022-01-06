@@ -37,7 +37,7 @@ I. Here, preprocessing methodology to performing neural network via sklearn, ten
 The neural network model using Tensorflow Keras contains working code that performs the following steps:
 The number of layers, the number of neurons per layer, and activation function are defined  <br>
 
-An output layer with an activation function is created (2.5 pt) <br>
+An output layer with an activation function is created  <br>
 
 There is an output for the structure of the model  <br>
 There is an output of the model’s loss and accuracy <br>
@@ -67,5 +67,5 @@ What steps did you take to try and increase model performance? <br>
 100 Epoch steps. 50 Epoch and lastly 30 Epoch and period of 5. <br>
 
 #### Summary: 
-the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. 
+the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. deep model is a benefical to use if more than one possible solution can be observed. neural network another train model to visual other networks of nodes to receive an answer.  
 
