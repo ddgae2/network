@@ -3,21 +3,21 @@
 I. Here, preprocessing methodology to performing neural network via sklearn, tensorflow, and pandas.
 
 
-## Results 
+### Results 
 #### Deliverable 1 requirements.
     'EIN' and 'NAME' drop
     DataFrame <br>
-    ![Figure 1](https://github.com/davidhyongae2/network/blob/main/Figure1.png) <br>
+   ![Figure 1](https://github.com/davidhyongae2/network/blob/main/Figure1.png) <br>
 
     The columns with more than 10 unique values have been grouped together <br>
     
-    ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure2.png) <br>
+   ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure2.png) <br>
     
     The preprocessed data is split into features and target arrays (5 pt)
     The preprocessed data is split into training and testing datasets (5 pt)
     The numerical values have been standardized using the StandardScaler() module (5 pt)
     
-    ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure3.png) <br>
+   ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure3.png) <br>
     
     What variable(s) that are considered the target(s) for your model?
 
