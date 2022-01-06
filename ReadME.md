@@ -13,9 +13,9 @@ I. Here, preprocessing methodology to performing neural network via sklearn, ten
     
    ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure2.png) <br>
     
-    The preprocessed data is split into features and target arrays (5 pt)
-    The preprocessed data is split into training and testing datasets (5 pt)
-    The numerical values have been standardized using the StandardScaler() module (5 pt)
+    The preprocessed data is split into features and target arrays 
+    The preprocessed data is split into training and testing datasets 
+    The numerical values have been standardized using the StandardScaler() module 
     
    ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure3.png) <br>
     
@@ -35,14 +35,14 @@ I. Here, preprocessing methodology to performing neural network via sklearn, ten
 #### Compiling, Training, and Evaluating the Model
 
 The neural network model using Tensorflow Keras contains working code that performs the following steps:
-The number of layers, the number of neurons per layer, and activation function are defined (2.5 pt) <br>
+The number of layers, the number of neurons per layer, and activation function are defined  <br>
 
 An output layer with an activation function is created (2.5 pt) <br>
 
-There is an output for the structure of the model (5 pt) <br>
-There is an output of the model’s loss and accuracy (5 pt) <br>
-The model's weights are saved every 5 epochs (2.5 pt) <br>
-The results are saved to an HDF5 file (2.5 pt) <br>
+There is an output for the structure of the model  <br>
+There is an output of the model’s loss and accuracy <br>
+The model's weights are saved every 5 epochs <br>
+The results are saved to an HDF5 file  <br>
 
    ![Figure 4](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
 
@@ -50,12 +50,12 @@ The results are saved to an HDF5 file (2.5 pt) <br>
 
 #### Deliverable 3 Requirements
 
-Noisy variables are removed from features (2.5 pt) <br>
-Additional neurons are added to hidden layers (2.5 pt) <br>
-Additional hidden layers are added (5 pt) <br> 
-The activation function of hidden layers or output layers is changed for optimization (5 pt) <br>
-The model's weights are saved every 5 epochs (2.5 pt) <br>
-The results are saved to an HDF5 file (2.5 pt) <br>
+Noisy variables are removed from features <br>
+Additional neurons are added to hidden layers  <br>
+Additional hidden layers are added <br> 
+The activation function of hidden layers or output layers is changed for optimization  <br>
+The model's weights are saved every 5 epochs  <br>
+The results are saved to an HDF5 file  <br>
 
    ![Figure 6](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
