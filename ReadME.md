@@ -64,7 +64,7 @@ layer1 = 80, layer2 = 30. in order to create a testable set and a training set. 
 Were you able to achieve the target model performance? <br> 
 yes, at an accurancy of 0.7286 <br>
 What steps did you take to try and increase model performance? <br>
-100 Epoch steps. and period of 5. <br>
+100 Epoch steps. 50 Epoch and lastly 30 Epoch and period of 5. <br>
 
 #### Summary: 
 the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. 
