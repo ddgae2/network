@@ -67,5 +67,5 @@ What steps did you take to try and increase model performance? <br>
 100 Epoch steps. 50 Epoch and lastly 30 Epoch and period of 5. <br>
 
 #### Summary: 
-the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. deep model is a benefical to use if more than one possible solution can be observed. neural network another train model to visual other networks of nodes to receive an answer.  
+the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. deep model is a benefical model to use if more than one possible solution can be observed. Neural network is an another trained model to visual other networks of nodes to get to predicted model.  
 
