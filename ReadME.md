@@ -50,16 +50,21 @@ The results are saved to an HDF5 file (2.5 pt) <br>
 
 #### Deliverable 3 Requirements
 
-Noisy variables are removed from features (2.5 pt)
-Additional neurons are added to hidden layers (2.5 pt)
-Additional hidden layers are added (5 pt)
-The activation function of hidden layers or output layers is changed for optimization (5 pt)
-The model's weights are saved every 5 epochs (2.5 pt)
-The results are saved to an HDF5 file (2.5 pt)
+Noisy variables are removed from features (2.5 pt) <br>
+Additional neurons are added to hidden layers (2.5 pt) <br>
+Additional hidden layers are added (5 pt) <br> 
+The activation function of hidden layers or output layers is changed for optimization (5 pt) <br>
+The model's weights are saved every 5 epochs (2.5 pt) <br>
+The results are saved to an HDF5 file (2.5 pt) <br>
 
    ![Figure 6](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
-
+How many neurons, layers, and activation functions did you select for your neural network model, and why? <br>
+layer1 = 80, layer2 = 30. in other to create a testable and a training set. 
+Were you able to achieve the target model performance? <br> 
+yes, at an accurancy of 0.7286 <br>
+What steps did you take to try and increase model performance? <br>
+100 Epoch steps. and period of 5. 
 
 #### Summary: 
 the model did well at 73% percentage. 
