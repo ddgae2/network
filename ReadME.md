@@ -67,5 +67,5 @@ What steps did you take to try and increase model performance? <br>
 100 Epoch steps. and period of 5. <br>
 
 #### Summary: 
-the model did well at 73% percentage. 
+the model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. 
 
