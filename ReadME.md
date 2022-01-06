@@ -9,7 +9,7 @@ I. Here, preprocessing methodology to performing neural network via sklearn, ten
     DataFrame <br>
    ![Figure 1](https://github.com/davidhyongae2/network/blob/main/Figure1.png) <br>
 
-    The columns with more than 10 unique values have been grouped together <br>
+    The columns with more than 10 unique values have been grouped together 
     
    ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure2.png) <br>
     
