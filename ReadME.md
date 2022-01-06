@@ -46,6 +46,7 @@ The results are saved to an HDF5 file (2.5 pt) <br>
 
    ![Figure 4](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
 
+   ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure5.png) <br>
 
 #### Summary: 
 the model did well at 73% percentage. 
