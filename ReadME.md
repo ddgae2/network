@@ -8,16 +8,12 @@ I. Preprocessing methodology to performing neural network via sklearn, tensorflo
     'EIN' and 'NAME' drop
     DataFrame
    ![Figure 1](https://github.com/davidhyongae2/network/blob/main/Figure1.png) <br>
-
-    The columns with more than 10 unique values have been grouped together 
-    
-   ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure2.png) <br>
     
     The preprocessed data is split into features and target arrays 
     The preprocessed data is split into training and testing datasets 
     The numerical values have been standardized using the StandardScaler() module 
     
-   ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure3.png) <br>
+   ![Figure 2](https://github.com/davidhyongae2/network/blob/main/Figure3.png) <br>
     
     What variable(s) that are considered the target(s) for your model?
 
@@ -44,9 +40,9 @@ There is an output of the model’s loss and accuracy <br>
 The model's weights are saved every 5 epochs <br>
 The results are saved to an HDF5 file  <br>
 
-   ![Figure 4](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
+   ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
 
-   ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure5.png) <br>
+   ![Figure 4](https://github.com/davidhyongae2/network/blob/main/Figure5.png) <br>
 
 #### Deliverable 3 Requirements
 
@@ -57,7 +53,7 @@ The activation function of hidden layers or output layers is changed for optimiz
 The model's weights are saved every 5 epochs  <br>
 The results are saved to an HDF5 file  <br>
 
-   ![Figure 6](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
+   ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why? <br>
 layer1 = 80, layer2 = 30. in order to create a testable set and a training set. <br>
