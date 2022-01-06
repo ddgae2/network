@@ -60,7 +60,7 @@ The results are saved to an HDF5 file (2.5 pt) <br>
    ![Figure 6](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why? <br>
-layer1 = 80, layer2 = 30. in other to create a testable and a training set. <br>
+layer1 = 80, layer2 = 30. in order to create a testable set and a training set. <br>
 Were you able to achieve the target model performance? <br> 
 yes, at an accurancy of 0.7286 <br>
 What steps did you take to try and increase model performance? <br>
