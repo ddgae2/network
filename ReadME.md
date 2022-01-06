@@ -25,7 +25,7 @@ I. Preprocessing methodology to performing neural network via sklearn, tensorflo
 
     What variable(s) are neither targets nor features, and should be removed from the input data?
   
-     c. 'EIN' & 'NAME'???
+     c. 'EIN' & 'NAME'
 
 
 #### Compiling, Training, and Evaluating the Model
