@@ -1,6 +1,6 @@
 ## Module 19 Challenge Alphabet Soup. 
 
-I. Preprocessing methodology to performing neural network via sklearn, tensorflow, and pandas.
+I. Preprocessing methodology to performing neural networks via sklearn, tensorflow, and pandas.
 
 
 ### Results 
@@ -19,11 +19,11 @@ I. Preprocessing methodology to performing neural network via sklearn, tensorflo
 
      a. IS_SUCCESSFUL column.
 
-    What variable(s) that are considered to be the features for your model?
+    What variable(s) are considered to be the features of your model?
 
      b. Every column except the drop.
 
-    What variable(s) are neither targets nor features, and should be removed from the input data?
+    What variable(s) are neither targets nor features and should be removed from the input data?
   
      c. 'EIN' & 'NAME'
 
@@ -56,12 +56,12 @@ The results are saved to an HDF5 file  <br>
    ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why? <br>
-layer1 = 80, layer2 = 30. in order to create a testable set and a training set. <br>
+layer1 = 80, layer2 = 30. to create a testable set and a training set. <br>
 Were you able to achieve the target model performance? <br> 
-yes, at an accurancy of 0.7286 <br>
+yes, at an accuracy of 0.7286 <br>
 What steps did you take to try and increase model performance? <br>
 100 Epoch steps. 50 Epoch and lastly 30 Epoch and period of 5. <br>
 
 #### Summary: 
-The model did well at 73% percentage. I recommend a epoch of 30 to reach a model value of 73% percentage. Deep model may be a good model to use if more than one possible nodes of solution can be observed. Neural network is an another trained model to visual other networks of nodes to get to a predicted model or process. 
+The model did well at 73% percentage. I recommend an epoch of 30 to reach a model value of 73% percentage. A deep model may be a good model to use if more than one possible node of solution can be observed. A neural network is another trained model to visualize other networks of nodes to get to a predicted model or process. 
 
