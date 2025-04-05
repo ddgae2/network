@@ -3,7 +3,7 @@
 I. Neural networks via sklearn, tensorflow, and pandas processing.
 
 
-#Step 2: Results 
+# Step 2: Results 
 #### Deliverable one requirements.
     'EIN' and 'NAME' drop
     DataFrame
@@ -61,6 +61,6 @@ yes, at an accuracy of 0.7286 <br>
 What steps did you take to try to increase model performance? <br>
 100 Epoch steps. 50 epochs, and lastly 30 epochs and a period of 5. <br>
 
-#### Summary: 
+# Summary: 
 The model did well at 73%. I recommend an epoch of 30 to reach the optimal value. A deep model may be a good model to use if more than one possible solution node can be observed. A neural network is another trained model that visualizes node networks to arrive at a predicted model or process. 
 
