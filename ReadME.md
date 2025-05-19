@@ -29,15 +29,14 @@ I. Neural networks via sklearn, tensorflow, and pandas processing.
 
 # Step 3: Compiling, Training, and Evaluating the Model
 
-The neural network model using Tensorflow Keras contains working code that performs the following steps:
-The number of layers, the number of neurons per layer, and activation function are defined  <br>
+The neural network model built with TensorFlow Keras includes functional code that performs the following steps:
 
-An output layer with an activation function is created  <br>
-
-There is an output for the structure of the model  <br>
-There is an output of the model’s loss and accuracy <br>
-The model's weights are saved every five epochs <br>
-The results are saved to an HDF5 file  <br>
+1. The number of layers, the number of neurons per layer, and the activation functions are defined.
+2. An output layer with an activation function is created.
+3. The structure of the model is displayed.
+4. The model's loss and accuracy are provided.
+5. The model's weights are saved every five epochs.
+6. The results are stored in an HDF5 file.
 
    ![Figure 3](https://github.com/davidhyongae2/network/blob/main/Figure4.png) <br>
 
@@ -45,12 +44,11 @@ The results are saved to an HDF5 file  <br>
 
 #### Deliverable 3 Requirements
 
-Noisy variables are removed from features <br>
-Additional neurons are added to hidden layers  <br>
-Additional hidden layers are added <br> 
-The activation function of hidden layers or output layers is changed for optimization  <br>
-The model's weights are saved every five epochs  <br>
-The results are saved to an HDF5 file  <br>
+- Noisy variables are removed from features.  
+- Neurons and hidden layers are added.  
+- Activation functions are optimized.  
+- Model weights are saved every five epochs.  
+- Results are stored in an HDF5 file.  
 
    ![Figure 5](https://github.com/davidhyongae2/network/blob/main/Figure6.png) <br>
 
@@ -62,5 +60,5 @@ What steps did you take to try to increase model performance? <br>
 100 Epoch steps. 50 epochs, and lastly 30 epochs and a period of 5. <br>
 
 # Summary: 
-The model did well at 73%. I recommend an epoch of 30 to reach the optimal value. A deep model may be a good model to use if more than one possible solution node can be observed. A neural network is another trained model that visualizes node networks to arrive at a predicted model or process. 
+The model achieved a performance rate of 73%. I suggest utilizing 30 epochs to achieve optimal results. A deep model is advantageous when multiple solution nodes are present, and a neural network can effectively visualize these nodes to enhance predictive accuracy.
 
